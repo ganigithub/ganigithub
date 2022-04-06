@@ -7,7 +7,7 @@ Hello Everyone! I am Ganesh Nagarvani who is passionate about Data Science and M
 Here I save all my Python, R, Tableau Desktop, Jupyter Notebooks in different repositories.
 You are welcome to explore!
 
--  🏦 I'm currently doing an Internship at The AlgoTrading Page where I do Algorithmic Trading.
+-  🏦 I'm currently doing an Internship at The AlgoTrading Page where I do Algorithmic Trading by building strategies in Python.
 
 - 🤝 I'm Open to do Full / Part Time work in Data Science, Machine Learning, Python fields.
 
