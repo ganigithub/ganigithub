@@ -2,13 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=6000&center=true&width=1000&lines=Hello+Visitor!👋+This+is+Ganesh+Nagarvani;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Hello Everyone! I am Ganesh Nagarvani who is passionate about Data Science and Machine Learning.
+### Hello Everyone! I am Ganesh Nagarvani. I'm passionate about Data Science and Machine Learning.
 
-Here I save all my Python, R, Tableau Desktop, Jupyter Notebooks in different repositories.
-You are welcome to explore!
+💾 Here I save all my Python, R, Tableau Desktop, Jupyter Notebooks in different repositories. You are welcome to Explore!
 
 -  🏦 I'm currently doing an Internship at The AlgoTrading Page where I do Algorithmic Trading by building strategies in Python.
 
 - 🤝 I'm Open to do Full / Part Time work in Data Science, Machine Learning, Python fields.
 
-- 💡 My Interesets are Data, Machine Learning, AI, Astronomy, Touch Typing, Algorithmic Trading
+- 💡 My Interesets are Data, Machine Learning, AI, Astronomy, Touch Typing, Pencil Sketching, Algorithmic Trading. 
