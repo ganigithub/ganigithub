@@ -8,6 +8,6 @@
 
 -  🏦 I'm currently doing an Internship at The AlgoTrading Page where I do Algorithmic Trading by building strategies in Python and automate through Selenium Webdriver.
 
-- 🤝 I'm Open to do Full / Part Time work in Data Science, Machine Learning, Python fields.
+- 🤝 I'm Open to do Full / Part Time work in Data Science, Machine Learning, Python, Algorithmic Trading fields.
 
 - 💡 My Interesets are Data, Machine Learning, AI, Astronomy, Touch Typing, Pencil Sketching, Algorithmic Trading. 
