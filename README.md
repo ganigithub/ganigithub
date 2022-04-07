@@ -10,4 +10,4 @@
 
 - 🤝 I'm Open to do Full / Part Time work in Data Science, Machine Learning, Python, Algorithmic Trading fields.
 
-- 💡 My Interesets are Data, Machine Learning, AI, Astronomy, Touch Typing, Pencil Sketching, Algorithmic Trading. 
+- 💡 My Interesets are Data, Machine Learning, AI, Astronomy, Touch Typing, Pencil Sketching, Algorithmic Trading.
