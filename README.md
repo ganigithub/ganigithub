@@ -11,3 +11,5 @@
 - 🤝 I'm Open to do Full / Part Time work in Data Science, Machine Learning, Python, AI, Algorithmic Trading fields.
 
 - 💡 My Interesets are Data, Machine Learning, AI, Astronomy, Touch Typing, Pencil Sketching, Algorithmic Trading.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganigithub&layout=compact)](https://github.com/ganigithub/github-readme-stats)
