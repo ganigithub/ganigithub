@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/86476881/162052760-fe8c4f67-6e93-47c4-bce3-071691f4ac70.png)
+![background](https://user-images.githubusercontent.com/86476881/162972433-2a858cf9-e4a5-4b3b-84a6-9f4c855abaa8.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=6000&center=true&width=1000&lines=Hello+Visitor!👋+This+is+Ganesh+Nagarvani;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=6000&color=46F744&center=true&width=1000&lines=Hello+Visitor!%F0%9F%91%8B+This+is+Ganesh+Nagarvani;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ### Hello Everyone! I am Ganesh Nagarvani. I'm passionate about Data Science and Machine Learning.
 
