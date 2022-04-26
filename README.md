@@ -26,10 +26,11 @@
 <a href="https://www.hackerrank.com/ganeshnagarvani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganeshnagarvani" height="30" width="40" /></a>
 </p>
 
-[<img src="https://img.shields.io/badge/Telegram-%40garry1213-blue">](https://t.me/garry1213)
 [<img src="https://img.shields.io/badge/Email-ganeshnagarani%40gmail.com-orange">](mailto:ganeshnagarvani@gmail.com)
 
 <h3 align="left">Here are some of my publications:</h3>
 1. https://medium.com/@ganeshnagarvani/placing-condition-based-orders-live-streaming-data-through-kite-connect-api-29513ef14ec2
 
 2. https://medium.com/@ganeshnagarvani/collecting-data-through-kites-historical-api-for-algorithmic-trading-9bf8ce425f45
+
+
