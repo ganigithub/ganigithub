@@ -28,7 +28,7 @@
 
 [<img src="https://img.shields.io/badge/Email-ganeshnagarani%40gmail.com-orange">](mailto:ganeshnagarvani@gmail.com)
 
-<h3 align="left">Here are some of my publications on topic Algorithmic Trading:</h3>
+<h3 align="left">Here are some of my publications on Algorithmic Trading:</h3>
 
 1. [Collecting Data Through Kite's Historical API](https://medium.com/@ganeshnagarvani/collecting-data-through-kites-historical-api-for-algorithmic-trading-9bf8ce425f45)
 2. [Websocket And Condition Based Orders (Price & Time based)](https://medium.com/@ganeshnagarvani/placing-condition-based-orders-live-streaming-data-through-kite-connect-api-29513ef14ec2)
