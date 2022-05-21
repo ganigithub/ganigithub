@@ -32,5 +32,6 @@
 
 1. [Collecting Data Through Kite's Historical API](https://medium.com/@ganeshnagarvani/collecting-data-through-kites-historical-api-for-algorithmic-trading-9bf8ce425f45)
 2. [Websocket And Condition Based Orders (Price & Time based)](https://medium.com/@ganeshnagarvani/placing-condition-based-orders-live-streaming-data-through-kite-connect-api-29513ef14ec2)
-
+3. [Deploying Algorithmic Trading Strategy Part-1](https://medium.com/@ganeshnagarvani/deploying-algorithmic-trading-strategy-part-1-68cd729eb2fe)
+4. [Deploying Algorithmic Trading Strategy Part-2](https://medium.com/@ganeshnagarvani/deploying-algorithmic-trading-strategy-part-2-logging-files-aa950b0fbba5)
 
