@@ -6,7 +6,7 @@
 
 💾 Here I save all my Python, R, Tableau Desktop, Jupyter Notebooks in different repositories. You are welcome to Explore!
 
--  🏦 I'm currently doing an Internship at The AlgoTrading Page where I do Algorithmic Trading by building strategies in Python and automate through Selenium Webdriver.
+-  🏦 I'm the Co-Founder of The AlgoTrading Page where I do Algorithmic Trading by building strategies in Python and automate through Selenium Webdriver.
 
 - 🤝 I'm Open to do Full / Part Time work in Data Science, Machine Learning, Python, AI, Algorithmic Trading fields.
 
