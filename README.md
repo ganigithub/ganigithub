@@ -35,4 +35,4 @@
 3. [Deploying Algorithmic Trading Strategy Part-1 (Main Strategy)](https://medium.com/@ganeshnagarvani/deploying-algorithmic-trading-strategy-part-1-68cd729eb2fe)
 4. [Deploying Algorithmic Trading Strategy Part-2 (Logging)](https://medium.com/@ganeshnagarvani/deploying-algorithmic-trading-strategy-part-2-logging-files-aa950b0fbba5)
 5. [Deploying Algorithmic Trading Strategy Part-3 (Telegram Bot Updates)](https://medium.com/@ganeshnagarvani/deploying-algorithmic-trading-strategy-part-3-telegram-updates-b22cd101a258)
-
+6. [Free Stock Market Data from Zerodha Terminal & Automating This Process](https://medium.com/@ganeshnagarvani/get-free-stock-data-from-zerodha-terminal-automate-this-process-2594321aabf3)
